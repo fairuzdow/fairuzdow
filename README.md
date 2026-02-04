@@ -43,7 +43,7 @@ I am a results-driven professional with over 20 years of experience in behaviora
 ---
 
 ## 📈 My GitHub Activity
-![Fairuz's GitHub stats](https://github-readme-stats.vercel.app/api?username=TU_USUARIO_AQUÍ&show_icons=true&theme=radical)
+![Fairuz's GitHub stats](https://github-readme-stats.vercel.app/api?username=fairuzdow&show_icons=true&theme=radical)
 
 ---
 

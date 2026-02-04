@@ -16,11 +16,11 @@ I am a results-driven professional with over 20 years of experience in behaviora
 
 ## 🏆 Certifications & Badges
 <p align="left">
-  <a href="(https://cert.efset.org/en/zoNaFP)">
+  <a href="https://cert.efset.org/en/zoNaFP">
     <img src="https://img.shields.io/badge/English-C1_Advanced-green?style=for-the-badge&logo=google-translate&logoColor=white" alt="English C1">
   </a>
   
-  <a href="TU_LINK_DE_CREDLY_IBM">
+  <a href="https://www.credly.com/badges/2273dae5-e7b7-4bb1-93cb-9113cb6a8499/public_url">
     <img src="https://img.shields.io/badge/IBM-Data_Analytics-blue?style=for-the-badge&logo=ibm&logoColor=white" alt="IBM Data Analytics">
   </a>
 

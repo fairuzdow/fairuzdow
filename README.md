@@ -16,7 +16,7 @@ I am a results-driven professional with over 20 years of experience in behaviora
 
 ## 🏆 Certifications & Badges
 <p align="left">
-  <a href="[TU_LINK_DE_CERTIFICADO_EF_SET](https://cert.efset.org/en/zoNaFP)">
+  <a href="(https://cert.efset.org/en/zoNaFP)">
     <img src="https://img.shields.io/badge/English-C1_Advanced-green?style=for-the-badge&logo=google-translate&logoColor=white" alt="English C1">
   </a>
   

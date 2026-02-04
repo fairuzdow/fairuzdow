@@ -1,16 +1,54 @@
-## Hi there 👋
+# Hi there! I'm Fairuz 👩‍🔬📊
 
-<!--
-**fairuzdow/fairuzdow** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Senior Health Data Analyst | People Analytics | C1 Advanced English
 
-Here are some ideas to get you started:
+I am a results-driven professional with over 20 years of experience in behavioral research and clinical data management. I specialize in transforming complex human data into strategic insights for the healthcare industry. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 My Professional Stack
+- **Data Analysis:** Python (Pandas, Numpy), R, SQL.
+- **Visualization:** Tableau, Power BI, Matplotlib.
+- **Expertise:** Health Intelligence, People Analytics, Behavioral Research.
+- **Languages:** Spanish (Native), English (C1 Advanced - EF SET Certified).
+
+---
+
+## 🏆 Certifications & Badges
+<p align="left">
+  <a href="TU_LINK_DE_CERTIFICADO_EF_SET">
+    <img src="https://img.shields.io/badge/English-C1_Advanced-green?style=for-the-badge&logo=google-translate&logoColor=white" alt="English C1">
+  </a>
+  
+  <a href="TU_LINK_DE_CREDLY_IBM">
+    <img src="https://img.shields.io/badge/IBM-Data_Analytics-blue?style=for-the-badge&logo=ibm&logoColor=white" alt="IBM Data Analytics">
+  </a>
+
+  <a href="TU_LINK_DE_CERTIFICADO_GOOGLE">
+    <img src="https://img.shields.io/badge/Google-AI_Productivity-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Google AI">
+  </a>
+
+  <a href="TU_LINK_DE_CERTIFICADO_SANTANDER">
+    <img src="https://img.shields.io/badge/Python-Certified-yellow?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+  </a>
+</p>
+
+---
+
+## 🧪 Featured Health Project: ER Overcrowding Optimization
+**Key Achievement:** Identified behavioral and administrative patterns in "High-Frequency Patients" (Hyper-consulters) for a major Health Insurance company (SURA).
+- **Tools:** SQL for data extraction, Python for EDA, and Tableau for strategic dashboards.
+- **Impact:** Provided actionable insights to reduce non-emergency ER visits and improve patient navigation.
+
+---
+
+## 📈 My GitHub Activity
+![Fairuz's GitHub stats](https://github-readme-stats.vercel.app/api?username=TU_USUARIO_AQUÍ&show_icons=true&theme=radical)
+
+---
+
+## 📫 Let's Connect!
+- **LinkedIn:** [www.linkedin.com/in/fairuz-dow-franco]
+- **Email:** [fairuzdow@gmail.com]
+
+  

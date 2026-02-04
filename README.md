@@ -28,7 +28,7 @@ I am a results-driven professional with over 20 years of experience in behaviora
     <img src="https://img.shields.io/badge/Google-AI_Productivity-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Google AI">
   </a>
 
-  <a href="Introduccion a la IA generativa- Sant Op Ac- MIT.pdf">
+  <a href="Python- Santander Open Academy.pdf">
     <img src="https://img.shields.io/badge/Python-Certified-yellow?style=for-the-badge&logo=python&logoColor=white" alt="Python">
   </a>
 </p>

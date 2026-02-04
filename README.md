@@ -42,11 +42,6 @@ I am a results-driven professional with over 20 years of experience in behaviora
 
 ---
 
-## 📈 My GitHub Activity
-![Fairuz's GitHub stats](https://github-readme-stats.vercel.app/api?username=fairuzdow&show_icons=true&theme=radical)
-
----
-
 ## 📫 Let's Connect!
 - **LinkedIn:** [www.linkedin.com/in/fairuz-dow-franco]
 - **Email:** [fairuzdow@gmail.com]

@@ -24,7 +24,7 @@ I am a results-driven professional with over 20 years of experience in behaviora
     <img src="https://img.shields.io/badge/IBM-Data_Analytics-blue?style=for-the-badge&logo=ibm&logoColor=white" alt="IBM Data Analytics">
   </a>
 
-  <a href="TU_LINK_DE_CERTIFICADO_GOOGLE">
+  <a href="Google Inteligencia Artificial y Productividad.pdf">
     <img src="https://img.shields.io/badge/Google-AI_Productivity-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Google AI">
   </a>
 
